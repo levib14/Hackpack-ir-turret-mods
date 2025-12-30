@@ -16,3 +16,11 @@ Sniper Mode	Press 7 then OK for Slow, methodical single precision shot
 Turret Burst	Press 9 then OK	Sweeping fire pattern with multiple shots
 
 Konami Code press "↑↑↓↓←→←→2 1" Ultimate unlock - triggers dance + burst!
+
+Vol+ rapid fires 2 rounds
+
+Vol- rapid fires 3 rounds 
+
+Ch+ rapid fires 4 rounds
+
+Ch- rapid fires 5 rounds
