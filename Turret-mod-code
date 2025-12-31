@@ -372,13 +372,13 @@ void handleCommand(int command) {
 
         case chplus:
             if (passcodeEntered) {
-                rapidFireRounds(4);
+                rapidFireRounds(5);
             }
             break;
 
         case chminus:
             if (passcodeEntered) {
-                rapidFireRounds(5);
+                rapidFireRounds(4);
             }
             break;
 
